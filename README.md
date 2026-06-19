@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👋 Hi, I'm Tharindu Weerakoon
 
-<!--
-**WeerakoonWMTB/WeerakoonWMTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Networks Undergraduate | NSBM Green University (Sri Lanka)  
+🌐 Networking • Cybersecurity • Linux Enthusiast  
+🚀 Passionate about building secure, scalable, and real-world network systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔭 Currently studying Computer Networks & IT Infrastructure
+- 🌱 Focused on Networking, Cybersecurity & Linux Administration
+- 🎯 Career Goal: Network Engineer / Cybersecurity Specialist
+- 🛠️ Building hands-on skills through labs & simulations
+- 🚀 Continuously improving through real-world practice
+
+---
+
+## 🧠 Technical Skills
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-Network%20Simulation-orange?style=for-the-badge)
+
+- TCP/IP, OSI Model
+- Routing & Switching
+- Network Design & Troubleshooting
+
+---
+
+### 🔐 Cybersecurity
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Fundamentals-red?style=for-the-badge&logo=hackthebox)
+
+- Security Fundamentals
+- Threat Awareness
+- Network Protection Concepts
+
+---
+
+### 🐧 Linux & Systems
+![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-Networking-blue?style=for-the-badge&logo=windows)
+
+- Linux Command Line Basics
+- System Navigation & File Management
+- Basic Server Concepts
+
+---
+
+### ☕ Programming
+![Java](https://img.shields.io/badge/Java-OOP-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-Basics-blue?style=for-the-badge&logo=python)
+
+- Object Oriented Programming (OOP)
+- Problem Solving Basics
+- Java Fundamentals
+- Python Programming Basics
+
+---
+
+## 📜 Certifications
+
+🏅 Introduction to Cybersecurity – Cisco  
+
+---
+
+## 📂 Projects (In Progress)
+
+📡 Packet Tracer Networking Labs  
+🔧 Routing & Switching Configurations  
+☕ Java OOP Practice Projects  
+🐧 Linux Command Line Labs  
+🔐 Cybersecurity Practice Labs  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WeerakoonWMTB&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeerakoonWMTB&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: **weerakoon.tharindu7@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/tharindu-weerakoon-87a818383  
+
+---
+
+## 🎯 Career Interest
+
+🔐 Cybersecurity Analyst
+
+🚀 Network Engineer   
+
+🖥️ System Administrator  
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
