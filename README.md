@@ -60,7 +60,8 @@
 
 ## 📜 Certifications
 
-🏅 Introduction to Cybersecurity – Cisco  
+🏅 Introduction to Cybersecurity – Cisco 
+🏅 Linux For Absolute Beginners – KodeKloud
 
 ---
 
