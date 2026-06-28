@@ -60,7 +60,7 @@
 
 ## 📜 Certifications
 
-🏅 Introduction to Cybersecurity – Cisco 
+🏅 Introduction to Cybersecurity – Cisco  
 🏅 Linux For Absolute Beginners – KodeKloud
 
 ---
@@ -99,7 +99,7 @@
 
 ## 🎯 Career Interest
 
-🔐 Cybersecurity Analyst
+🔐 Cybersecurity Analyst 
 
 🚀 Network Engineer   
 
